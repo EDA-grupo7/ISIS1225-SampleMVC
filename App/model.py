@@ -29,6 +29,7 @@ import config as cf
 from DISClib.ADT import list as lt
 assert cf
 
+
 """
 En el modelo, se crean las estructuras de datos, es decir,
 las variables donde se van a guardar los datos leidos de los
@@ -71,3 +72,6 @@ def createTagList():
     """
     taglist = lt.newList(datastructure='SINGLE_LINKED')
     return taglist
+
+
+
