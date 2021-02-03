@@ -27,4 +27,6 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
-
+-Grupo 7:
+    Mario Alberto Ricaurte Tobón; 201922994
+    Laura Valentina Jiménez Tovar; 201924116
